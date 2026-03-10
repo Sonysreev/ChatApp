@@ -17,7 +17,7 @@ Profile image upload using Firebase Storage
 
 Responsive and user-friendly chat interface
 
-#Tech Stack
+Tech Stack
 React.js
 
 Firebase Authentication
@@ -31,34 +31,18 @@ JavaScript
 CSS
 
 Project Structure
-src/
- ├── components
- │    ├── ChatBox
- │    ├── LeftSidebar
- │    └── RightSidebar
- │
- ├── pages
- │    ├── Chat
- │    ├── Login
- │    └── ProfileUpdate
- │
- ├── context
- │    └── AppContext
- │
- ├── config
- │    └── firebase.js
- │
- └── assets
+
+![Chatapp-Struct](https://github.com/user-attachments/assets/574c1737-f563-411e-a177-16d09db13b96)
+
 Installation and Setup
 Clone the repository
 
-git clone https://github.com/your-username/chat-app.git
 Navigate to the project folder
-
 cd chat-app
-Install dependencies
 
+Install dependencies
 npm install
+
 Run the project
 
 npm run dev
