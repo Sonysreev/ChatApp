@@ -1,12 +1,12 @@
 # ChatApp
 Developed a real-time chat web application using React.js and Firebase. Implemented secure user authentication and real-time messaging using Firebase Authentication and Firestore. This project helped me gain hands-on experience with React state management, database integration, and building interactive web applications.
 # Live Chat Application
-#Overview
+Overview
 This project is a real-time chat web application built using React.js and Firebase. It allows users to authenticate, send messages, and communicate in real time through a simple and responsive chat interface.
 
 The project was developed to learn how modern web applications handle authentication, real-time databases, and frontend state management.
 
-#Features
+Features
 User authentication using Firebase Authentication
 
 Real-time messaging
